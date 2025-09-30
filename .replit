@@ -1,1 +1,1 @@
-run = "python3 osint.py"
+run = "python osint.py"
